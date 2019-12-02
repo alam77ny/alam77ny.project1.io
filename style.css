@@ -9,6 +9,8 @@ body, html {
   background-size: cover;
 }
 
+
+
 h1 {
 	font-size: 3rem;
 	color: #c2cdd8;
@@ -31,7 +33,7 @@ h1 {
 	border-width: 4px;
 }
 
-	.btn-xl {
+.btn-xl {
 	padding: 1rem 2rem;
 }
 
@@ -39,6 +41,7 @@ hr {
 	border-color: #f05f44;
 	border-width: 3px;
 	max-width: 65px;
+	margin-left: 518px;
 }
 
 .buffer {
