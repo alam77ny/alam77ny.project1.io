@@ -12,11 +12,15 @@ main {
 	text-align: center;
 	background-color: yellow;
 	padding-left: 0px;
+	font-family: 'Architects Daughter', cursive;
 }
 
-.me:hover {font-size: 50px;}
+.me:hover {
+	font-size: 50px;
+}
 
 .contact {
+	margin-top: 60px;
 	background-color:#326ba9;
 	width: 420px;
 	padding-left: 4px;
